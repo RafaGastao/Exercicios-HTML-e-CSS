@@ -1,0 +1,35 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+
+h1{
+    text-align: center;
+}
+
+div{
+    margin: 35px;
+    border-radius: 4px;
+    padding: 20px;
+    background-color: #111;
+    color: #b2b2b2;
+}
+
+h2{
+    margin: 0px;
+}
+button{
+    display: inline-block;
+    padding: 15px 25px; /* altura | largura */
+    background-color: #febe01;
+    color: #332200;
+    font-size: 15px; /* tamanho do texto */
+    border-radius: 4px; 
+}
+
+
+.preco{
+    color:#febe01
+}
+
